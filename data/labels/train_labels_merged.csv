@@ -1,0 +1,217 @@
+﻿text,active,culture,nature,relaxation
+usetimeculture: 10:00~19:00 restdateculture: 매주 월요일 parkingculture: 가능 infocenterculture: 0507-1494-1482,0.25,0.25,0.25,0.25
+eventplace: 가락몰 3층 하늘공원 playtime: 11:00~18:00 usetimefestival: 무료 sponsor1: 서울시농수산식품공사 sponsor1tel: 02-3435-0286,0.04166666666666657,0.04166666666666657,0.8750000000000003,0.04166666666666657
+eventplace: 가락몰 판매동 3층 하늘공원 playtime: 12:00~20:00 usetimefestival: 입장료 무료 sponsor1: 서울시농수산식품공사 sponsor1tel: 02-3435-0455,0.04166666666666657,0.04166666666666657,0.8750000000000003,0.04166666666666657
+usetimeculture: 화요일~토요일 10:00~17:00 restdateculture: 매주 일요일~월요일 / 법정공휴일 / 임시공휴일 parkingculture: 불가능 infocenterculture: 02-732-6170,0.25,0.25,0.25,0.25
+schedule: 기타 distance: 15.21km taketime: 5시간,0.25,0.25,0.25,0.25
+usetimeculture: [대출반납실] - 학기 중 09:00~17:00 / 방학 중 09:00~16:00 [자료열람실 / 참고열람실 / 복사실 / 시청각실] - 학기 중 08:30~17:30 / 방학 중 08:30~16:30 [연학실] - 학기 중 08:00~22:00 / 방학 중 휴실 restdateculture: 주말 및 법정공휴일 / 도서관장이 필요하다고 판단하는 경우 parkingculture: 가능 chkbabycarriageculture: 없음 infocenterculture: 성신교정도서관 02-740-9720,0.0714285714285714,0.7857142857142859,0.0714285714285714,0.0714285714285714
+usetime: [주일미사] - 새벽미사 06:00 - 교중미사 11:00 - 학생미사18:00 [토요일] 저녁 주일미사 18:00 [평일미사] - 월요일 06:00 ※ 매주 월요일은 미사 후 성당 문 닫음 - 화요일 19:00 - 수요일 10:00 - 목요일 19:00 - 금요일 10:00 [유아세례] 매월 첫 번째 일요일 17:00 restdate: 매주 월요일 parking: 가능 chkbabycarriage: 없음 infocenter: 02-763-1570,0.25,0.25,0.25,0.25
+usetimeculture: [관람시간] - 3월~11월 10:00~18:00 - 12월~2월 10:00~17:00 ※ 관람 시 종료 40분 전까지 입장 [체험시간] - 10:00~16:00 ※ 체험 시 종료 1시간 전까지 입장 restdateculture: 매주 월요일 parkingculture: 불가능 chkbabycarriageculture: 불가 infocenterculture: 02-741-0466,0.7857142857142859,0.0714285714285714,0.0714285714285714,0.0714285714285714
+usetime: 상시 개방 restdate: 연중무휴 parking: 가능 infocenter: 동대문구청 정원도시과 02-2127-4398,0.07142857142857137,0.07142857142857137,0.7857142857142859,0.07142857142857137
+usetimeculture: [관람시간] 10:00~18:00 [정기전시] - 춘계전시 4월 말~5월 초 - 추계전시 9월 말~10월 초 ※ 일정은 미술관 및 재단 사정에 의해 변동 가능하므로 홈페이지 참조 또는 전화 문의 요망 ※ 전시 관람은 사전 예약제로 운영 restdateculture: 매주 월요일 parkingculture: 가능 chkbabycarriageculture: 없음 infocenterculture: 02-744-7830 070-7774-2524,0.04166666666666658,0.8750000000000004,0.04166666666666658,0.04166666666666658
+usetime: 09:00~18:00 restdate: 매주 일요일 / 월요일 / 1월 1일 / 설·추석 연휴 / 간송미술문화재단 요청 시 parking: 불가능 infocenter: 02-954-5757,0.0714285714285714,0.7857142857142859,0.0714285714285714,0.0714285714285714
+usetime: 상시 개방 restdate: 연중무휴 parking: 가능 chkbabycarriage: 없음 infocenter: 양천구 공원녹지과 02-2620-4569,0.07142857142857137,0.07142857142857137,0.7857142857142859,0.07142857142857137
+usetime: 09:00~18:00 restdate: 연중무휴 parking: 불가능 chkbabycarriage: 없음 infocenter: 0507-1413-5862,0.25,0.25,0.25,0.25
+usetime: 상시 개방 (강남메디컬투어센터 평일 10:00~18:00) restdate: 연중무휴 parking: 가능 chkbabycarriage: 없음 infocenter: 강남메디컬투어센터 1661-2230,0.07142857142857137,0.07142857142857137,0.7857142857142859,0.07142857142857137
+parking: 가능 chkbabycarriage: 없음 infocenter: 02-3445-0111,0.25,0.25,0.25,0.25
+usetimeculture: 09:00~18:00 restdateculture: 주말 / 법정공휴일 parkingculture: 가능 infocenterculture: 02-3454-1517~9,0.25,0.25,0.25,0.25
+"playtime: 10월 2일 15:00 ~ 23:00 / 10월 3일 11:00 ~ 22:00 usetimefestival: 무료 sponsor1: 서울특별시, 서초구, 아이러브서초강남역상가번영회 sponsor1tel: 070-8892-4020",0.07142857142857137,0.07142857142857137,0.7857142857142859,0.07142857142857137
+usetimeculture: 평일 09:00~21:00 토요일 09:00~18:00 restdateculture: 매주 일요일 / 법정공휴일 / 1월 1일 / 설·추석 연휴 parkingculture: 가능 chkbabycarriageculture: 없음 infocenterculture: 02-488-0386,0.25,0.25,0.25,0.25
+eventplace: 강동아트센터 playtime: 10:00~18:00 usetimefestival: 무료 sponsor1: 강동문화재단 sponsor1tel: 02-471-0044,0.029411764705882266,0.6176470588235294,0.3235294117647059,0.029411764705882266
+eventplace: 서울 암사동 유적 일대 playtime: 10:00~22:00 usetimefestival: 무료 / 먹거리장터의 경우 개별 음식구매는 유료 sponsor1: 강동구 sponsor1tel: 02-3425-5240,0.041666666666666574,0.4583333333333335,0.4583333333333335,0.041666666666666574
+usetimeculture: 공연에 따라 다름 restdateculture: 공연에 따라 다름 parkingculture: 가능 chkbabycarriageculture: 없음 infocenterculture: 02-440-0500,0.0714285714285714,0.7857142857142859,0.0714285714285714,0.0714285714285714
+usetime: 상시 개방 restdate: 연중무휴 parking: 불가능 infocenter: 강동구청 문화예술과 02-3425-5250,0.041666666666666574,0.4583333333333335,0.4583333333333335,0.041666666666666574
+usetime: - 주간 05:00~20:00 - 야간 20:00~익일 05:00 restdate: 연중무휴 parking: 가능 요금 (주간 시간 입차 시 5시간 무료 / 야간 시간 입차 시 익일 오전 8시까지 무료 / 무료시간 외 10분당 600원) chkbabycarriage: 불가 infocenter: 02-455-3737,0.25,0.25,0.25,0.25
+eventplace: 강북구청 광장 playtime: 14:00~20:00 usetimefestival: 무료 sponsor1: 강북구청 sponsor1tel: 02-901-6443,0.07142857142857137,0.07142857142857137,0.7857142857142859,0.07142857142857137
+"eventplace: 북서울꿈의숲 서문광장 일대 playtime: 10:00~17:00 usetimefestival: 유료 (1,000원) sponsor1: 강북구 sponsor1tel: 02-554-9795",0.04166666666666657,0.04166666666666657,0.8750000000000003,0.04166666666666657
+usetimeculture: 09:00~18:00 (12:00~13:00 휴게시간) restdateculture: 주말 parkingculture: 가능 chkbabycarriageculture: 없음 infocenterculture: 강북문화원 02-999-8810,0.07142857142857137,0.07142857142857137,0.7857142857142859,0.07142857142857137
+schedule: 기타 distance: 10.11km taketime: 5시간,0.25,0.25,0.25,0.25
+eventplace: 성신여자대학교 운정그린캠퍼스 playtime: 10:00~17:00 usetimefestival: 무료 sponsor1: 강북구청 sponsor1tel: 02-554-9795,0.07142857142857137,0.07142857142857137,0.7857142857142859,0.07142857142857137
+eventplace: 강서구민회관 및 우장산 근린공원 일대 playtime: 12:40~17:00 usetimefestival: 무료 sponsor1: 강서구청 sponsor1tel: 02-2600-6970,0.02941176470588227,0.02941176470588227,0.9117647058823531,0.02941176470588227
+eventplace: 곰달래문화복지센터 playtime: 11:00~16:00 usetimefestival: 무료(물품 및 식품 바자회는 구입비용 발생) sponsor1: 강서구 sponsor1tel: 02-2600-6763 02-2606-2017,0.07142857142857137,0.07142857142857137,0.7857142857142859,0.07142857142857137
+"usetimeculture: 화요일~일요일 09:30~18:00 (입장마감 17:30) ※ 야간 운영 시 별도 공지 (홈페이지 참조) restdateculture: 매주 월요일 / 1월 1일 / 설·추석 당일 ※ 단, 월요일이 공휴일인 경우, 그 다음날 휴관 ※ 시설 점검 및 그 밖의 사유로 인해 휴관 할 수 있음 (홈페이지 사전 공지) ※ 천재지변 등 긴급한 사유로 인할 경우 공지 없이 휴관 할 수 있음 parkingculture: 불가능 infocenterculture: 02-2661-3346",0.25,0.25,0.25,0.25
+eventplace: 방화근린공원 playtime: 15:00 ~ 21:00 usetimefestival: 무료 sponsor1: 강서구 sponsor1tel: 02-2600-6634,0.04166666666666657,0.04166666666666657,0.8750000000000003,0.04166666666666657
+usetime: 상시 개방 restdate: 연중무휴 parking: 가능 infocenter: 한강사업본부 강서안내센터 02-3780-0621~3,0.07142857142857137,0.07142857142857137,0.7857142857142859,0.07142857142857137
+usetimeculture: - 평일 10:00~20:00 - 토요일 10:00~17:00 restdateculture: 매주 일요일 / 공휴일 parkingculture: 가능 (31대) infocenterculture: 02-2692-4266,0.25,0.25,0.25,0.25
+eventplace: 방화근린공원 playtime: 10:00~16:00 usetimefestival: 무료 sponsor1: 강서구 sponsor1tel: 02-2600-6975,0.04166666666666657,0.04166666666666657,0.8750000000000003,0.04166666666666657
+usetime: 상시 개방 restdate: 연중무휴 parking: 가능 infocenter: 강서구청 체육관광과 02-2600-6082,0.07142857142857137,0.07142857142857137,0.7857142857142859,0.07142857142857137
+usetime: 상시 개방 restdate: 연중무휴 parking: 가능 infocenter: 02-3780-0621~3,0.25,0.25,0.25,0.25
+eventplace: 위즈엘 성수 playtime: 11:30~19:30 (2/4~2/12) usetimefestival: 무료 sponsor1: 강원관광재단 sponsor1tel: 070-7841-7696,0.07142857142857137,0.07142857142857137,0.7857142857142859,0.07142857142857137
+eventplace: 광화문 광장 놀이마당 playtime: 10:00~17:00 usetimefestival: 무료 sponsor1: 국무조정실 국제개발협력본부 sponsor1tel: 070-7728-6600,0.25,0.25,0.25,0.25
+usetime: 상시 개방 restdate: 연중무휴 parking: 불가능 chkbabycarriage: 없음 infocenter: 서울 구로구 공원녹지과 02-860-2395,0.07142857142857137,0.07142857142857137,0.7857142857142859,0.07142857142857137
+usetime: 04:00~19:00 restdate: 연중무휴 parking: 가능 infocenter: 02-926-4069,0.25,0.25,0.25,0.25
+usetime: 상시 개방 restdate: 연중무휴 parking: 불가능 infocenter: 서울시 강서구 공원녹지과 02-2600-4183,0.04166666666666657,0.04166666666666657,0.8750000000000003,0.04166666666666657
+usetimeculture: 월~토 10:00~19:00 일요일 및 공휴일 11:00~18:30 restdateculture: 전시마다 상이 parkingculture: 불가능 chkbabycarriageculture: 없음 infocenterculture: 갤러리 M 02-735-0073,0.0714285714285714,0.7857142857142859,0.0714285714285714,0.0714285714285714
+"usetimeculture: 화요일~토요일 10:00~18:00 restdateculture: 매주 일요일, 월요일 / 1월1일 / 명절 (전화 문의) parkingculture: 가능 (주차 공간 협소) chkbabycarriageculture: 없음 infocenterculture: 02-546-3560",0.25,0.25,0.25,0.25
+usetimeculture: 10:00~18:00 restdateculture: 연중무휴 parkingculture: 가능 chkbabycarriageculture: 없음 infocenterculture: 02-2029-1700,0.25,0.25,0.25,0.25
+usetimeculture: 10:00~18:00 restdateculture: 일요일 / 월요일 parkingculture: 가능 chkbabycarriageculture: 없음 infocenterculture: 02-725-2930,0.25,0.25,0.25,0.25
+usetimeculture: 10:30~18:00 restdateculture: 매주 화요일 parkingculture: 불가능 chkbabycarriageculture: 없음 infocenterculture: 02-730-5454,0.25,0.25,0.25,0.25
+usetimeculture: 10:30~18:00 restdateculture: 매주 일요일~월요일 / 법정공휴일 parkingculture: 가능 chkbabycarriageculture: 없음 infocenterculture: 02-741-6030,0.25,0.25,0.25,0.25
+usetimeculture: 10:30~18:30 restdateculture: 연중무휴 parkingculture: 불가능 chkbabycarriageculture: 없음 infocenterculture: 02-722-8005,0.25,0.25,0.25,0.25
+usetimeculture: 10:00~18:30 restdateculture: 매주 일요일 / 매주 월요일 parkingculture: 가능 chkbabycarriageculture: 없음 infocenterculture: 02-730-5824,0.25,0.25,0.25,0.25
+usetimeculture: 11:00~18:00 restdateculture: 매주 일요일 parkingculture: 가능 infocenterculture: 02-515-3377,0.25,0.25,0.25,0.25
+usetimeculture: 화요일~토요일 10:00~18:00 restdateculture: 매주 일요일/월요일/공휴일 parkingculture: 가능 chkbabycarriageculture: 없음 infocenterculture: 02-2236-1583,0.25,0.25,0.25,0.25
+"usetimeculture: 10:30~18:00 restdateculture: 매주 월요일, 일요일 parkingculture: 가능 chkbabycarriageculture: 없음 infocenterculture: 02-720-3031",0.25,0.25,0.25,0.25
+"usetimeculture: 10:00~18:00 restdateculture: 월요일, 일요일, 공휴일 chkbabycarriageculture: 없음 chkpetculture: 불가 infocenterculture: 02-725-1020",0.25,0.25,0.25,0.25
+usetimeculture: 평일 10:00~18:00 주말 11:00~16:00 restdateculture: 1월 1일 / 명절 연휴(전시기간) / 주말(전시 없는 경우) parkingculture: 가능 chkbabycarriageculture: 없음 infocenterculture: 02-733-3788,0.0714285714285714,0.7857142857142859,0.0714285714285714,0.0714285714285714
+"usetimeculture: 월~금 10:00~18:00 restdateculture: 토요일 , 일요일(전시중에는 무휴) parkingculture: 가능 (소형 6대 주차 가능) chkbabycarriageculture: 없음 infocenterculture: 갤러리 원 02-514-3439",0.0714285714285714,0.7857142857142859,0.0714285714285714,0.0714285714285714
+usetimeculture: 09:00~18:00 restdateculture: 토요일 / 일요일 parkingculture: 주차 가능 (주차공간 협소) chkbabycarriageculture: 없음 chkpetculture: 불가,0.25,0.25,0.25,0.25
+usetimeculture: 10:00~18:00 restdateculture: 월요일 / 1월 1일 / 설·추석 당일 parkingculture: 가능 chkbabycarriageculture: 없음 infocenterculture: 02-2287-3500,0.25,0.25,0.25,0.25
+usetimeculture: 11:00~19:00 restdateculture: 매주 일요일~월요일 parkingculture: 가능 chkbabycarriageculture: 없음 infocenterculture: 02-322-3979,0.25,0.25,0.25,0.25
+usetimeculture: - 전시장 11:00~18:00 - 1층 카페 10:00~18:00 restdateculture: 설날·추석 parkingculture: 불가능 infocenterculture: 02-737-4678,0.041666666666666574,0.4583333333333334,0.041666666666666574,0.4583333333333334
+usetimeculture: 11:00~18:00 (점심시간 12:00~13:30) restdateculture: 연중무휴 parkingculture: 불가능 chkbabycarriageculture: 없음 infocenterculture: 02-739-1405,0.25,0.25,0.25,0.25
+usetimeculture: 10:00~18:00 restdateculture: 주말 / 공휴일 parkingculture: 주차 가능 chkbabycarriageculture: 없음 chkpetculture: 없음 infocenterculture: 02-542-3004,0.25,0.25,0.25,0.25
+usetimeculture: 11:00~19:00 restdateculture: 연중무휴 parkingculture: 불가능 infocenterculture: 02-733-6881,0.25,0.25,0.25,0.25
+usetimeculture: 월~금요일 10:00~18:00 / 토요일 11:00~16:00 restdateculture: 매주 일요일 / 공휴일 parkingculture: 불가 chkbabycarriageculture: 없음 infocenterculture: 0507-1423-1911,0.25,0.25,0.25,0.25
+usetimeculture: 10:30~18:30 restdateculture: 매주 월요일 parkingculture: 가능 (인근 유료주차장) chkbabycarriageculture: 없음 infocenterculture: 02-723-7133,0.25,0.25,0.25,0.25
+usetime: 화~일 12:00 ~ 18:00 restdate: 매주 월요일 infocenter: 0507-1357-8670,0.25,0.25,0.25,0.25
+usetime: 상시 개방 restdate: 연중무휴 parking: 불가능 chkbabycarriage: 없음 infocenter: 구로구청 공원녹지과 02-860-3090,0.07142857142857137,0.07142857142857137,0.7857142857142859,0.07142857142857137
+usetime: 상시개방 restdate: 연중무휴 parking: 가능 chkbabycarriage: 없음 infocenter: 02-2199-7552,0.25,0.25,0.25,0.25
+"usetimeculture: 10:00~16:00 ※ 단, 12:00~13:00 미개방 restdateculture: 매주 토요일, 일요일 / 공휴일 parkingculture: 가능 chkbabycarriageculture: 없음 infocenterculture: 02-450-3881~2",0.25,0.25,0.25,0.25
+"usetimeculture: [자료실] - 평일 09:00~21:00 ※ 방학 중 09:00~17:00 - 토요일 09:00~13:00 [열람실] 05:00~23:00 ※ 2열람실은 상시 개방(단, 시험기간 별도 공지) restdateculture: [자료실] 매주 일요일 / 법정 공휴일 [열람실] 연중무휴 parkingculture: 가능 chkbabycarriageculture: 없음 infocenterculture: 02-450-3872",0.25,0.25,0.25,0.25
+eventplace: 서울공항 / 숭례문~광화문 usetimefestival: 무료 sponsor1: 국방부 건군 76주년 국군의 날 행사기획단 sponsor1tel: 02-3789-9560~4,0.25,0.25,0.25,0.25
+"usetime: [1월~2월] 09:00~17:00 (입장마감 16:00) [3월~5월] 09:00~18:00 (입장마감 17:00) [6월~8월] 09:00~18:30 (입장마감 17:30) [9월~10월] 09:00~18:00 (입장마감 17:00) [11월~12월] 09:00~17:00 (입장마감 16:00) restdate: 매주 화요일 ※ 단, 정기휴일이 공휴일 및 대체공휴일과 겹칠 경우에는 개방하며, 그 다음의 첫 번째 비공휴일이 정기휴일임 parking: 가능 (버스 50대 / 승용차 240대) chkbabycarriage: 없음 infocenter: 02-3700-3900",0.25,0.25,0.25,0.25
+eventplace: 경희대학교 평화의전당 playtime: 11:00 ~ 20:00 usetimefestival: 무료 sponsor1: 서울특별시 sponsor1tel: 010-8504-5467,0.25,0.25,0.25,0.25
+playtime: 10:00~19:00 usetimefestival: 무료 sponsor1: 문화체육관광부 sponsor1tel: 02-554-6763,0.25,0.25,0.25,0.25
+eventplace: 서울특별시 중구 청계천 청계광장 일대 playtime: 18:00~22:00 usetimefestival: 무료 sponsor1: 경향신문 sponsor1tel: 02-904-1159,0.25,0.25,0.25,0.25
+"eventplace: 어울림공원 playtime: 10:00~17:00 usetimefestival: 무료 sponsor1: 서울특별시 강서구 sponsor1tel: 02-2659-2207, 02-2600-6581",0.04166666666666657,0.04166666666666657,0.8750000000000003,0.04166666666666657
+usetimeculture: - 평일 10:00~18:00 - 주말 10:00~17:00 restdateculture: 매주 월요일 / 1월 1일 / 설·추석 당일 parkingculture: 가능 infocenterculture: 02-2659-2206,0.25,0.25,0.25,0.25
+usetime: 09:00~18:00 restdate: 연중무휴 parking: 가능 chkbabycarriage: 불가 infocenter: 02-914-2828,0.25,0.25,0.25,0.25
+usetimeculture: [기획전시] 월요일~토요일 10:00~16:00 [상설전시] 월요일~금요일 10:00~16:00 restdateculture: 매주 일요일 / 공휴일 parkingculture: 가능 chkbabycarriageculture: 불가 infocenterculture: 02-3463-1336,0.0714285714285714,0.7857142857142859,0.0714285714285714,0.0714285714285714
+usetime: 00:00 ~ 24:00 infocenter: 용산구청 02-2199-6114,0.07142857142857137,0.07142857142857137,0.7857142857142859,0.07142857142857137
+"usetime: [1월~2월] 09:00~17:00 (입장마감 16:00) [3월~5월] 09:00~18:00 (입장마감 17:00) [6월~8월] 09:00~18:30 (입장마감 17:30) [9월~10월] 09:00~18:00 (입장마감 17:00) [11월~12월] 09:00~17:00 (입장마감 16:00) restdate: 매주 화요일 ※ 단, 정기휴일이 공휴일 및 대체공휴일과 겹칠 경우에는 개방하며, 그 다음의 첫 번째 비공휴일이 정기휴일임 parking: 가능 (승용차 240대 / 버스 50대) infocenter: 02-3700-3900",0.25,0.25,0.25,0.25
+"eventplace: 경복궁 playtime: 1부 - 18:40 ~ 20:30 / 2부 - 19:40 ~ 21:30 usetimefestival: 유료 (1인 60,000원) sponsor1: 국가유산청 궁능유적본부 sponsor1tel: 1522-2295",0.041666666666666574,0.4583333333333335,0.4583333333333335,0.041666666666666574
+schedule: 기타 distance: 3.43km taketime: 4시간,0.25,0.25,0.25,0.25
+eventplace: 서울 청계광장 playtime: 15:00~21:00 usetimefestival: 무료 sponsor1: 경상북도 sponsor1tel: 02-797-8760,0.25,0.25,0.25,0.25
+"eventplace: 서울광장 playtime: 1,2일차 10:00 ~ 17:00 / 3일차 10:00 ~ 12:00 usetimefestival: 무료체험 및 시식, 경북사과할인판매 sponsor1: 경상북도, 사과주산지시장군수협의회 sponsor1tel: 대구경북능금농협 053-740-3033 경상북도 친환경농업과 054-880-3372",0.4583333333333335,0.041666666666666574,0.4583333333333335,0.041666666666666574
+usetime: 상시 개방 restdate: 매주 토요일~일요일 / 법정공휴일 parking: 불가능 infocenter: 중구청 문화재관리팀 02-3396-5842,0.0714285714285714,0.7857142857142859,0.0714285714285714,0.0714285714285714
+usetime: 11:00~20:00 restdate: 매주 월요일 parking: 불가능 chkbabycarriage: 없음 infocenter: 02-324-6200 02-324-6028,0.25,0.25,0.25,0.25
+"usetimeculture: - 미술관 10:00~18:00 ※ 전시 철수 및 전시 준비 : 화요일 / 전시 오픈 : 수요일 - 전통다원 10:30~21:00 ※ 어검당의 경우, 연구기관으로 운영되어 관람 불가 restdateculture: 1월 1일 / 설·추석 parkingculture: 가능 (수운회관 유료주차장 이용) infocenterculture: 02-733-4448",0.029411764705882266,0.911764705882353,0.029411764705882266,0.029411764705882266
+usetime: 상시 개방 restdate: 연중무휴 parking: 가능 infocenter: 국가보훈부 1577-0606,0.25,0.25,0.25,0.25
+"eventplace: 공릉역 2번 출구 일대 playtime: 11:00~20:30(일 11:00~20:00) usetimefestival: 무료 sponsor1: 서울시, 노원구 sponsor1tel: 02-976-9110 02-2116-3488",0.25,0.25,0.25,0.25
+usetime: 09:00~18:00 (입장마감 17:30) restdate: 매주 월요일 / 1월 1일 parking: 가능 chkbabycarriage: 없음 infocenter: 02-724-0274~6,0.25,0.25,0.25,0.25
+usetime: 09:00 ~ 18:00 restdate: 월요일 parking: 있음 chkbabycarriage: 없음 infocenter: 02-3396-5843,0.25,0.25,0.25,0.25
+usetime: 09:00~18:00 (입장 마감 17:30) restdate: 매주 월요일 / 1월 1일 parking: 가능 infocenter: 종로구청 도시녹지과 02-2148-2842,0.25,0.25,0.25,0.25
+usetimeculture: 평일(수요일 제외) 10:00~17:00 / 수요일 10:00~20:00 restdateculture: 주말 / 법정공휴일 / 개교기념일(5.18) parkingculture: 가능 chkbabycarriageculture: 없음 infocenterculture: 자연사박물관 02-961-0142,0.041666666666666574,0.4583333333333335,0.4583333333333335,0.041666666666666574
+usetimeculture: 10:00~17:00 restdateculture: 매주 토요일~일요일 / 법정공휴일 parkingculture: 가능 infocenterculture: 02-961-0141,0.25,0.25,0.25,0.25
+usetime: 상시 개방 restdate: 연중무휴 parking: 불가능 chkbabycarriage: 없음 infocenter: 양천구청 공원녹지과 02-2620-3576,0.07142857142857137,0.07142857142857137,0.7857142857142859,0.07142857142857137
+restdate: 연중무휴 infocenter: 02262035,0.25,0.25,0.25,0.25
+usetime: 10:00 ~ 18:00 infocenter: 02-765-1375,0.25,0.25,0.25,0.25
+usetimeculture: 09:30~17:30 restdateculture: 매주 토요일~일요일 / 국경일 / 1월 1일 / 명절 parkingculture: 불가능 chkbabycarriageculture: 없음 infocenterculture: 02-2265-0220,0.25,0.25,0.25,0.25
+usetime: 05:00~22:00 ※ 계절 및 날씨 등에 따라 변경 가능 restdate: 연중무휴 parking: 가능 infocenter: 국가보훈부 1577-0606,0.25,0.25,0.25,0.25
+usetimeculture: 06:30~22:00 restdateculture: 매주 토요일~일요일 parkingculture: 가능 infocenterculture: 02-3290-4097,0.25,0.25,0.25,0.25
+usetimeculture: 10:00~17:00(입장 마감 16:00) restdateculture: 매주 일요일 / 법정 공휴일 / 박물관 규정에 정한 휴관일 parkingculture: 가능 chkbabycarriageculture: 없음 infocenterculture: 02-3290-1517,0.0714285714285714,0.7857142857142859,0.0714285714285714,0.0714285714285714
+"playtime: 11:00~23:30 usetimefestival: 무료 sponsor1: 강남구, CMC(마이스클러스터위원회) sponsor1tel: 070-7734-7796",0.07142857142857137,0.07142857142857137,0.7857142857142859,0.07142857142857137
+usetime: 상시 개방 restdate: 연중무휴 parking: 가능 chkbabycarriage: 없음 infocenter: 02-2619-6640,0.25,0.25,0.25,0.25
+usetime: 상시 개방 restdate: 연중무휴 parking: 불가 chkbabycarriage: 없음 infocenter: 구로구청 문화관광과 02-860-3401,0.25,0.25,0.25,0.25
+usetime: - 하절기(3~10월) 10:00~17:00 - 동절기(11~2월) 10:00~16:00 restdate: 국경일 / 공휴일 parking: 가능 chkbabycarriage: 없음 infocenter: 070-7094-4510,0.25,0.25,0.25,0.25
+schedule: 기타 distance: 26.93km taketime: 6시간,0.25,0.25,0.25,0.25
+usetime: 05:00~22:00 restdate: 연중무휴 parking: 가능 chkbabycarriage: 없음 infocenter: 02-450-9311,0.25,0.25,0.25,0.25
+산책을/를 재밌다,0.0,0.0,0.0,1.0
+캠핑을/를 흥미롭다,1.0,0.0,0.0,0.0
+캠핑을/를 흥미롭다,1.0,0.0,0.0,0.0
+캠핑을/를 흥미롭다,1.0,0.0,0.0,0.0
+캠핑을/를 흥미롭다,1.0,0.0,0.0,0.0
+마라톤을/를 관심없다,1.0,-0.0,-0.0,-0.0
+산책을/를 흥미롭다,0.0,0.0,0.0,1.0
+산책을/를 흥미롭다,0.0,0.0,0.0,1.0
+산책을/를 흥미롭다,0.0,0.0,0.0,1.0
+산책을/를 흥미롭다,0.0,0.0,0.0,1.0
+연극을/를 좋아한다,0.0,1.0,0.0,0.0
+폭포을/를 힘들다,-0.0,-0.0,1.0,-0.0
+궁궐을/를 안 좋아한다,-0.0,1.0,-0.0,-0.0
+펜션을/를 별로다,-0.0,-0.0,-0.0,1.0
+사찰을/를 즐긴다,0.0,1.0,0.0,0.0
+궁궐을/를 힘들다,-0.0,1.0,-0.0,-0.0
+박물관을/를 싫어한다,-0.0,1.0,-0.0,-0.0
+강을/를 편안하다,0.0,0.0,1.0,0.0
+산을/를 지루하다,-0.0,-0.0,1.0,-0.0
+글램핑을/를 행복하다,0.0,0.0,0.0,1.0
+온천을/를 좋아한다,0.0,0.0,0.0,1.0
+온천을/를 좋아한다,0.0,0.0,0.0,1.0
+온천을/를 좋아한다,0.0,0.0,0.0,1.0
+온천을/를 좋아한다,0.0,0.0,0.0,1.0
+박물관을/를 흥미롭다,0.0,1.0,0.0,0.0
+리조트을/를 지루하다,-0.0,-0.0,-0.0,1.0
+산을/를 행복하다,0.0,0.0,1.0,0.0
+피트니스을/를 귀찮다,1.0,-0.0,-0.0,-0.0
+해변을/를 싫어한다,-0.0,-0.0,1.0,-0.0
+호수을/를 귀찮다,-0.0,-0.0,1.0,-0.0
+해변을/를 관심없다,-0.0,-0.0,1.0,-0.0
+산을/를 흥미롭다,0.0,0.0,1.0,0.0
+하이킹을/를 안 좋아한다,1.0,-0.0,-0.0,-0.0
+계곡을/를 편안하다,0.0,0.0,1.0,0.0
+둘레길을/를 싫어한다,-0.0,-0.0,1.0,-0.0
+산책을/를 안 좋아한다,-0.0,-0.0,-0.0,1.0
+미술관을/를 즐긴다,0.0,1.0,0.0,0.0
+레저 스포츠을/를 행복하다,1.0,0.0,0.0,0.0
+숲을/를 흥미롭다,0.0,0.0,1.0,0.0
+호텔을/를 편안하다,0.0,0.0,0.0,1.0
+궁궐을/를 행복하다,0.0,1.0,0.0,0.0
+강을/를 싫어한다,-0.0,-0.0,1.0,-0.0
+리조트을/를 재밌다,0.0,0.0,0.0,1.0
+산책을/를 편안하다,0.0,0.0,0.0,1.0
+강을/를 흥미롭다,0.0,0.0,1.0,0.0
+온천을/를 행복하다,0.0,0.0,0.0,1.0
+자연경관을/를 별로다,-0.0,-0.0,1.0,-0.0
+사찰을/를 지루하다,-0.0,1.0,-0.0,-0.0
+바다을/를 좋아한다,0.0,0.0,1.0,0.0
+역사 유적을/를 싫어한다,-0.0,1.0,-0.0,-0.0
+강을/를 좋아한다,0.0,0.0,1.0,0.0
+공연을/를 별로다,-0.0,1.0,-0.0,-0.0
+스파을/를 재밌다,0.0,0.0,0.0,1.0
+마라톤을/를 힘들다,1.0,-0.0,-0.0,-0.0
+자연경관을/를 싫어한다,-0.0,-0.0,1.0,-0.0
+뮤지컬을/를 재밌다,0.0,1.0,0.0,0.0
+트레킹을/를 힘들다,1.0,-0.0,-0.0,-0.0
+공연을/를 즐긴다,0.0,1.0,0.0,0.0
+역사 유적을/를 재밌다,0.0,1.0,0.0,0.0
+트레킹을/를 좋아한다,1.0,0.0,0.0,0.0
+캠핑을/를 힘들다,1.0,-0.0,-0.0,-0.0
+계곡을/를 좋아한다,0.0,0.0,1.0,0.0
+사찰을/를 안 좋아한다,-0.0,1.0,-0.0,-0.0
+미술관을/를 재밌다,0.0,1.0,0.0,0.0
+런닝을/를 흥미롭다,1.0,0.0,0.0,0.0
+트레킹을/를 행복하다,1.0,0.0,0.0,0.0
+레저 스포츠을/를 재밌다,1.0,0.0,0.0,0.0
+피트니스을/를 행복하다,1.0,0.0,0.0,0.0
+호수을/를 싫어한다,-0.0,-0.0,1.0,-0.0
+둘레길을/를 힘들다,-0.0,-0.0,1.0,-0.0
+등산을/를 싫어한다,1.0,-0.0,-0.0,-0.0
+등산을/를 귀찮다,1.0,-0.0,-0.0,-0.0
+숲을/를 귀찮다,-0.0,-0.0,1.0,-0.0
+운동을/를 행복하다,1.0,0.0,0.0,0.0
+호수을/를 별로다,-0.0,-0.0,1.0,-0.0
+강을/를 관심없다,-0.0,-0.0,1.0,-0.0
+캠핑을/를 즐긴다,1.0,0.0,0.0,0.0
+스파을/를 관심없다,-0.0,-0.0,-0.0,1.0
+산책을/를 싫어한다,-0.0,-0.0,-0.0,1.0
+연극을/를 관심없다,-0.0,1.0,-0.0,-0.0
+숲을/를 편안하다,0.0,0.0,1.0,0.0
+자전거을/를 힘들다,1.0,-0.0,-0.0,-0.0
+피트니스을/를 싫어한다,1.0,-0.0,-0.0,-0.0
+피트니스을/를 싫어한다,1.0,-0.0,-0.0,-0.0
+피트니스을/를 싫어한다,1.0,-0.0,-0.0,-0.0
+피트니스을/를 싫어한다,1.0,-0.0,-0.0,-0.0
+마라톤을/를 사랑한다,1.0,0.0,0.0,0.0
+캠핑을/를 안 좋아한다,1.0,-0.0,-0.0,-0.0
+런닝을/를 사랑한다,1.0,0.0,0.0,0.0
+하이킹을/를 지루하다,1.0,-0.0,-0.0,-0.0
+펜션을/를 사랑한다,0.0,0.0,0.0,1.0
+글램핑을/를 흥미롭다,0.0,0.0,0.0,1.0
+연극을/를 재밌다,0.0,1.0,0.0,0.0
+전시회을/를 힘들다,-0.0,1.0,-0.0,-0.0
+산을/를 힘들다,-0.0,-0.0,1.0,-0.0
+숲을/를 재밌다,0.0,0.0,1.0,0.0
+박물관을/를 즐긴다,0.0,1.0,0.0,0.0
+미술관을/를 귀찮다,-0.0,1.0,-0.0,-0.0
+강을/를 힘들다,-0.0,-0.0,1.0,-0.0
+카페을/를 편안하다,0.0,0.0,0.0,1.0
+산을/를 귀찮다,-0.0,-0.0,1.0,-0.0
+하이킹을/를 싫어한다,1.0,-0.0,-0.0,-0.0
+폭포을/를 싫어한다,-0.0,-0.0,1.0,-0.0
+계곡을/를 행복하다,0.0,0.0,1.0,0.0
+트레킹을/를 지루하다,1.0,-0.0,-0.0,-0.0
+피트니스을/를 편안하다,1.0,0.0,0.0,0.0
+런닝을/를 힘들다,1.0,-0.0,-0.0,-0.0
+하이킹을/를 사랑한다,1.0,0.0,0.0,0.0
