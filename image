@@ -1,0 +1,27 @@
+MODEL_NAME="openai/clip-vit-base-patch32" #사용할 CLIP 모델
+
+```python
+#CSV(링크) 모드 / 컬럼명 지정
+USE_CSV   = True
+INPUT_CSV = r"C:\Users\HAN\Desktop\alpha\tour_raw_with_texts.csv"  # 내 CSV 파일
+TITLE_COL = "title"               # 장소명 컬럼
+URL_COL   = "firstimage"          # 이미지 링크 컬럼
+OUT_MERGED_CSV = r"C:\Users\HAN\Desktop\alpha\merged_scores.csv"
+OUT_ERRORS_CSV = r"C:\Users\HAN\Desktop\alpha\load_errors.csv" # 이미지 로딩 에러 목록
+```
+
+```python
+'테마:점수'를 하나의 문자열로 합쳐 기록
+    # [MOD] 행 단위 at[] 대신 배치 단위 일괄 반영으로 pandas 오버헤드 감소
+    idxs, values = [], []
+    for (place, src, row_idx), row_vals in zip(metas, probs.tolist()):
+        theme_score_str = ", ".join(
+            f"{name}:{float(v):.2f}" for name, v in zip(theme_names, row_vals)
+        )
+        if USE_CSV and row_idx is not None:
+            idxs.append(row_idx)
+            values.append(theme_score_str)
+    if USE_CSV and idxs:
+        df_out.loc[idxs, "theme_scores"] = values
+
+```
