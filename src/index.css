@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* ---- 여기 아래만 커스텀 ---- */
+/* 전역 폰트/스크롤만 가볍게: Tailwind 우선순위 보장 위해 @layer base 사용 */
+@layer base {
+  html, body, #root {
+    min-height: 100%;
+    background-color: #f5f5f5; /* 필요 없으면 삭제 */
+  }
+  body {
+    margin: 0;
+    /* 폰트: Inter 쓰는 경우 */
+    font-family: ui-sans-serif, system-ui, -apple-system, "Inter", "Helvetica Neue", Arial, "Noto Sans KR", sans-serif;
+  }
+  /* 링크/버튼은 Tailwind 유틸 클래스로 제어. 여기선 굳이 전역 스타일 지정 안 함 */
+}
+
+/* 필요하면 유틸리티 예시 (선택)
+@layer utilities {
+  .text-balance { text-wrap: balance; }
+}
+*/
